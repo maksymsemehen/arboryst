@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "e-ukraine-head";
+  src: url("/assets/fonts/e-ukraine-head/e-ukraine-head-bold.otf")
+    format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e-ukraine";
+  src: url("/assets/fonts/e-ukraine/e-ukraine-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --coal: #1c1c1c;
+  --white: #f5f5f5;
+  --green: #0d1605;
+  --gray: #8d8d8d;
+}
